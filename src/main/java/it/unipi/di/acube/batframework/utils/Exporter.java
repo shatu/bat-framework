@@ -24,7 +24,6 @@ import javax.xml.transform.stream.StreamResult;
 import org.w3c.dom.*;
 
 public class Exporter {
-
 	/**
 	 * Export an A2W dataset in readable XML format.
 	 * 
@@ -301,5 +300,4 @@ public class Exporter {
 			}
 		}
 	}
-
 }
